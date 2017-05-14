@@ -10,11 +10,11 @@
   "preconfiguredEntries": [{
     "groupId": "2b125755-159d-4799-8210-b091a3d967c3",
     "group": { "default": "Search" },
-    "title": { "default": "SearchSpfx" },
+    "title": { "default": "Subgressive Search" },
     "description": { "default": "Search web part built with SPFx" },
     "officeFabricIconFontName": "Search",
     "properties": {
-      "description": "SearchSpfx",
+      "description": "Subgressive SPFx Search",
       "title": "",
       "query": "*",
       "template": "DefaultTemplate",
