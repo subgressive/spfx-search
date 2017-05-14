@@ -1,6 +1,6 @@
 {
   "workingDir": "./temp/deploy/",
-  "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "search-wp-spfx",
-  "accessKey": "<!-- ACCESS KEY -->"
+  "account": "subgressivespfx",
+  "container": "subgressive-search",
+  "accessKey": "y73br396eMjkbtETwxZubnsAJF9wkLzGME9m3D/ERIT3ppFItsK8LlgYXiXFMnU857wY+r+KEKtF/WpsPeUVbw=="
 }
