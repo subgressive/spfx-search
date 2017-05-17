@@ -2,6 +2,7 @@ import { ITemplates } from '../utils/ITemplates';
 
 export const allTemplates: ITemplates[] = [
     { key: 'DefaultTemplate', text: 'Default template', mappings: 'Path,Title' },
+    { key: 'ContactsTemplate', text: 'Contacts template', mappings: 'Title,JobTitle,UserName,FullName,WorkCity,WorkCountry,WorkEmail,' },
     { key: 'TableTemplate', text: 'Table template', mappings: 'Path,Title,Filename,Fileextension,ModifiedOWSDATE,EditorOWSUSER' }
 ];
 
